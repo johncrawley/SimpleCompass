@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SimpleCompass</string>
+    <string name="degrees_string">%d°</string>
+    <string name="degrees_string_default">Awaiting sensor information&#8230;</string>
+</resources>
